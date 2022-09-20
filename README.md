@@ -1,20 +1,16 @@
 Created a simple calculator app and that should have the following features.
-
 Add
-
 Multiply
-
 Subtract
-
 Divide
-
 Clear
-
 Equals
 
 Add/multiply,subtract/divide can be clubbed together (just like a normal calculator on your phone).
 
 This is a react app.
+
+Hosted page link: https://cute-gaufre-6d1c58.netlify.app/
 
 # Getting Started with Create React App
 
